@@ -44,7 +44,7 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 dependencies {
-    implementation 'com.idwise:android-sdk:5.0.1'
+    implementation 'com.idwise:android-sdk:x.y.z'
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'androidx.core:core-ktx:1.6.0'
